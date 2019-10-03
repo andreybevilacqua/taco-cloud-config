@@ -1,0 +1,28 @@
+spring:
+  h2:
+    console:
+      path: /console
+  datasource:
+    url: jdbc:h2:mem:taco-app
+
+logging:
+  path: /Users/andreybevilacqua/Downloads
+  file: taco.log
+
+taco:
+  orders:
+    pageSize: 10
+  integration:
+    folder: /Users/andreybevilacqua/Downloads
+server:
+  port:
+    8080
+some:
+  specific:
+    Taco-API:
+      configuration: this-is-my-Taco-API-configuration
+
+eureka:
+  client:
+    service-url:
+      default-zone: http://localhost:8761/eureka
