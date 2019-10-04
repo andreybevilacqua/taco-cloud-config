@@ -22,7 +22,7 @@ some:
     Taco-API:
       configuration: this-is-my-Taco-API-configuration
 greeting:
-  message: Hey folks!!!
+  message: Hey folks again!!!
 
 eureka:
   client:
