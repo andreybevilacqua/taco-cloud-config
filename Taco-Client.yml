@@ -5,8 +5,6 @@ some:
   specific:
     Taco-Client:
       configuration: this-is-my-configuration
-greeting:
-  message: Hey folks!!!
 eureka:
   client:
     service-url:

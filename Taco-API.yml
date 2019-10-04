@@ -21,6 +21,8 @@ some:
   specific:
     Taco-API:
       configuration: this-is-my-Taco-API-configuration
+greeting:
+  message: Hey folks!!!
 
 eureka:
   client:
