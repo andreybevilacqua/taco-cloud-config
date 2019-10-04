@@ -11,7 +11,7 @@ spring:
       default-destination: taco.order.queue
 some:
   specific:
-    taco-client:
+    Taco-Kitchen-JMS-API:
       configuration: this-is-my-configuration
 eureka:
   client:

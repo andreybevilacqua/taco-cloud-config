@@ -10,7 +10,7 @@ server:
     8090
 some:
   specific:
-    Taco-API:
+    Taco-Reactive-API:
       configuration: this-is-my-Taco-Reactive-API-configuration
 
 eureka:
